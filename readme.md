@@ -59,3 +59,197 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 # Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
+
+# awesomeness
+
+* [https://github.com/wasabeef/awesome-android-ui  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/wasabeef/awesome-android-ui)
+* [https://github.com/wasabeef/awesome-android-libraries  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/wasabeef/awesome-android-libraries)
+* [https://github.com/snowdream/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/snowdream/awesome-android)
+* [https://github.com/JStumpp/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/JStumpp/awesome-android)
+* [https://github.com/ashishb/android-security-awesome  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/ashishb/android-security-awesome)
+* [https://github.com/akullpp/awesome-java  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/akullpp/awesome-java)
+* https://github.com/kaiinui/android-awesome-libraries
+* https://android-libraries.zeef.com/jurgen.stumpp
+* https://github.com/liuguangqiang/TopAndroid
+* [https://github.com/bboyfeiyu/android-tech-frontier ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/bboyfeiyu/android-tech-frontier) (Chinese)
+* https://github.com/Trinea/android-open-project/tree/master/English%20Version
+* https://github.com/yeungeek/awesome-android-libraries (Chinese)
+* https://github.com/iamdaiyuan/android_top_1000
+* [https://github.com/lightSky/Awesome-MaterialDesign  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/lightSky/Awesome-MaterialDesign)
+* https://github.com/android-cn/android-dev-com (Chinese)
+* https://github.com/naughtyspirit/awesome-android-apps
+* https://github.com/trieucse/awesome-android
+* https://github.com/naughtyspirit/awesome-android-dev-tools
+* https://github.com/treesouth/AndroidLibrary
+* https://github.com/hotchemi/awesome-android-testing
+* https://github.com/tangqi92/Android-Tips
+* https://github.com/kesenhoo/android-training-course-in-chinese
+* https://github.com/Juude/awesome-android-performance
+* http://www.learn2crack.com/
+* https://github.com/codepath/android_guides/wiki/Must-Have-Libraries
+* https://github.com/xiaomeixw/Library-Everyday-Gitbook
+* https://github.com/cesards/AndroidElementals
+
+# News
+
+* http://androidweekly.net
+* http://www.androidhive.info/
+* http://android-developers.blogspot.tw/
+* https://corner.squareup.com/
+* http://instagram-engineering.tumblr.com/
+* http://www.andevcon.com/news
+* http://www.androidweekly.cn/ (Chinese)
+
+# Voice News
+
+* http://fragmentedpodcast.com/
+* https://soundcloud.com/fragmentedcast
+* https://player.fm/episodes?q=fragmentedcast
+* https://soundcloud.com/designnotes
+
+# Video News
+
+* https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
+
+# Project Trending
+
+* https://github.com/trending?l=java
+
+# Libraries
+
+* https://android-arsenal.com
+* https://android-libs.com
+* https://androidlibs.org
+* http://alamkanak.github.io/android-libraries-and-resources/
+* http://p.codekk.com/
+* http://www.appance.com/category/android/
+* https://code.google.com/hosting/search?q=label%3aAndroid
+* https://libraries.io/
+
+# Libraries DEMO
+
+* https://play.google.com/store/apps/details?id=com.desarrollodroide.repos
+* https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
+* https://play.google.com/store/apps/details?id=com.libraries.developers
+* https://play.google.com/store/apps/details?id=com.rise.livdev
+
+# UX/UI
+
+* https://dribbble.com/
+* http://androidniceties.tumblr.com/
+* https://www.materialup.com/
+* http://developer.android.com/design/
+* http://androiduiux.com/free-design-resources/
+* http://colorhunt.co/
+* http://sketchrepo.com/
+* https://www.androidexperiments.com/
+* http://uimovement.com/
+* http://www.100daysui.com/
+* http://www.appanimations.com/
+* https://material.uplabs.com
+
+# Documentation
+
+* https://github.com/codepath/android_guides/wiki
+* http://www.vogella.com/tutorials/android.html
+* http://javatechig.com/
+* https://github.com/gabrielemariotti/androiddev
+* http://developer.android.com/develop
+* http://a.codekk.com/
+
+# Tools
+
+* http://romannurik.github.io/AndroidAssetStudio/ (forks: http://jgilfelt.github.io/AndroidAssetStudio)
+* http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
+* http://angrytools.com/android/button
+* http://inloop.github.io/shadow4android/
+* http://www.jsonschema2pojo.org/
+* http://pojo.sodhanalibrary.com/
+* http://timboudreau.com/blog/json/read
+* http://inloop.github.io/apk-method-count
+* https://proguard.herokuapp.com/
+* http://screensiz.es/phone
+* http://www.methodscount.com
+* http://inloop.github.io/sqlite-viewer/
+* http://inloop.github.io/svg2android
+* https://romannurik.github.io/AndroidIconAnimator/
+
+# Stats
+
+* https://nimbledroid.com/
+* http://www.appbrain.com/stats/libraries
+
+# Package Services
+
+* https://bintray.com/
+* http://central.sonatype.org/pages/ossrh-guide.html
+* https://jitpack.io/
+
+# Javadoc Services
+
+* http://javadoc.io/
+* https://jitpack.io/
+
+# Backend Services
+
+* Parse
+* Firebase
+* heroku
+* pixate
+
+# Analytics Services
+
+* Google Analytics
+* Flurry
+* Crashlytics
+* http://www.tune.com/
+* Mixpanel
+* etc.
+* http://crashlytics.com/blog/
+
+# Frameworks
+
+* Fabric8
+* Xamarin C#
+* cordova (phonegap)
+
+* react-native
+* nativescript
+
+# Package searching
+
+* http://gradleplease.appspot.com/
+* http://search.maven.org/
+
+# Awards
+
+* http://github-awards.com/users?language=Java&type=world
+* https://github.com/trending/developers?l=java
+* https://gitgossip.com/top
+* http://githubranking.com/
+* http://app.trendingdevs.com/world?languages=Java
+
+# App demo Services
+
+* https://appetize.io/
+
+# Blogs
+
+* http://android-developers.blogspot.com
+* https://code.facebook.com/posts/android/
+* https://corner.squareup.com/
+* https://www.novoda.com/blog
+* http://androiduiux.com
+* http://cyrilmottier.com
+* http://www.androiduipatterns.com
+* http://www.androidhive.info
+* http://dtmilano.blogspot.com
+* http://jakewharton.com/blog
+* http://chris.banes.me
+* https://medium.com/@romannurik
+* http://nostra13android.blogspot.com
+* http://koush.com
+* http://www.grokkingandroid.com
+* https://medium.com/groupon-eng
+* http://googledevelopers.blogspot.com
+* https://www.quora.com/What-are-must-read-Android-developer-blogs
