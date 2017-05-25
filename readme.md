@@ -156,6 +156,23 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 * https://github.com/gabrielemariotti/androiddev
 * http://developer.android.com/develop
 * http://a.codekk.com/
+* https://github.com/balamaci/rxjava-walkthrough
+* https://github.com/patloew/RxWear
+* https://github.com/facebookincubator/Keyframes
+* https://github.com/ashishb/android-security-awesome
+* https://github.com/lzyzsd/Awesome-RxJava
+* https://github.com/codepath/android_guides
+* https://github.com/ribot/android-guidelines
+* https://github.com/futurice/android-best-practices
+* https://github.com/amilehu/android-guidelines
+* https://github.com/mgp/effective-rxjava
+* https://github.com/Blankj/AndroidUtilCode
+* https://github.com/FallibleInc/security-guide-for-developers
+* https://github.com/snowdream/awesome-android
+* https://github.com/Juude/awesome-android-performance
+* https://github.com/lightSky/Awesome-MaterialDesign
+* https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault
+* https://github.com/ParaskP7/android-dev-sources
 
 # Tools
 
