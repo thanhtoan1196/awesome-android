@@ -36,6 +36,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
 - [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
+- [AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio)
 
 ### Podcast
 - [Fragmented](http://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
@@ -173,6 +174,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 * https://github.com/lightSky/Awesome-MaterialDesign
 * https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault
 * https://github.com/ParaskP7/android-dev-sources
+* https://github.com/JackyAndroid/AndroidInterview-Q-A
+* https://github.com/vbauer/android-blogs
+* https://github.com/aritraroy/UltimateAndroidReference
 
 # Tools
 
