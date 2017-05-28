@@ -7,18 +7,15 @@ A curated list of awesome Android resources
 - [awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries)
 
 ## Index
-- [Resources](#resources)
-    - [More lists of libraries](#more-lists-of-libraries)
-- [Development Alternatives](#development-alternatives)
-    - [C#](#c)
-    - [HTML, CSS and Javascript](#html-css-and-javascript)
-    - [Lua](#lua)
-    - [Scala](#scala)
-    - [Groovy](#groovy)
-    - [Kotlin](#kotlin)
-- [Performance](#performance)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
+- [Libraries](#libraries)
+- [Documentation](#documentation)
+- [Kotlin](#kotlin)
+- [News](#news)
+- [Awards](#awards)
+- [UX/UI](#uxui)
+- [Tools](#tools)
+- [Awesomeness](#awesomeness)
+- [About Me](#about-me)
 
 ## Libraries
 - https://android-arsenal.com
@@ -122,7 +119,7 @@ A curated list of awesome Android resources
 - http://www.methodscount.com
 - http://inloop.github.io/apk-method-count
 
-## awesomeness
+## Awesomeness
 
 ### Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
