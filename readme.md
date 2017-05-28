@@ -1,9 +1,12 @@
-# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/thanhtoan1196/awesome-android)
 
-# [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://github.com/jstumpp/awesome-android)
+A curated list of awesome Android resources
 
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
+## Other Awesome List
+- [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui)
+- [awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries)
 
+## Index
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
 - [Development Alternatives](#development-alternatives)
@@ -177,6 +180,12 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 * https://github.com/JackyAndroid/AndroidInterview-Q-A
 * https://github.com/vbauer/android-blogs
 * https://github.com/aritraroy/UltimateAndroidReference
+* https://github.com/aritraroy/UltimateAndroidReference
+* https://github.com/futurice/android-best-practices
+* https://github.com/cesards/AndroidShell
+* http://guides.codepath.com/android
+* https://github.com/codepath/android_guides
+* https://fabiomsr.github.io/from-java-to-kotlin
 
 # Tools
 
@@ -274,3 +283,24 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 * https://medium.com/groupon-eng
 * http://googledevelopers.blogspot.com
 * https://www.quora.com/What-are-must-read-Android-developer-blogs
+
+## About Me
+- Github:  https://github.com/thanhtoan1196
+- Facebook: https://www.facebook.com/thanhtoan1196       
+- Email: thanhtoan1196@gmail.com
+
+## License
+
+    Copyright 2017 Tran Van Thanh Toan
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
