@@ -3,8 +3,10 @@
 A curated list of awesome Android resources
 
 ## Other Awesome List
+- [awesome-android](https://github.com/thanhtoan1196/awesome-android)
 - [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui)
 - [awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries)
+- [awesome-android-tips](https://github.com/thanhtoan1196/awesome-android-tips)
 
 ## Index
 - [Libraries](#libraries)
@@ -19,7 +21,7 @@ A curated list of awesome Android resources
 
 ## Libraries
 - https://android-arsenal.com
-- https://libraries.io/
+- **[https://libraries.io](https://libraries.io)**
 
 ## Documentation
 - https://github.com/codepath/android_guides
@@ -27,12 +29,15 @@ A curated list of awesome Android resources
 - https://github.com/futurice/android-best-practices
 - https://github.com/amilehu/android-guidelines
 - https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault
+- https://github.com/ravidsrk/android-testing-guide  
 - https://github.com/balamaci/rxjava-walkthrough
 - https://github.com/mgp/effective-rxjava
 - https://github.com/patloew/RxWear
 - https://github.com/FallibleInc/security-guide-for-developers
-- https://fabiomsr.github.io/from-java-to-kotlin
-- https://github.com/cesards/AndroidShell
+- **[https://fabiomsr.github.io/from-java-to-kotlin](https://fabiomsr.github.io/from-java-to-kotlin)**
+- https://github.com/HugoMatilla/Effective-JAVA-Summary
+- **[https://github.com/cesards/AndroidShell](https://github.com/cesards/AndroidShell)**
+- https://caster.io
 - http://www.androidhive.info
 - https://futurestud.io/tutorials/tag/android
 - http://www.vogella.com/tutorials/android.html
@@ -54,12 +59,17 @@ A curated list of awesome Android resources
 - http://www.andevcon.com/news
 - https://www.novoda.com/blog
 - http://googledevelopers.blogspot.com
+- https://www.androiddevdigest.com
+- https://androidsweets.ongoodbits.com
+- http://us12.campaign-archive2.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6
 
 ### Podcast
 - [Fragmented](http://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
+
+You can use [Player.fm](https://player.fm/) to listen to these podcasts. They even have an [Android Client](https://play.google.com/store/apps/details?id=fm.player&hl=en), all for FREE.
 
 ### Voice News
 
@@ -69,6 +79,7 @@ A curated list of awesome Android resources
 
 ### Video News
 
+- https://www.youtube.com/user/androiddevelopers/videos
 - https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
 
 ## Awards
@@ -90,6 +101,7 @@ A curated list of awesome Android resources
 - http://uimovement.com/
 - http://www.100daysui.com/
 - http://www.appanimations.com/
+- https://material.io
 
 ## Tools
 
@@ -107,6 +119,12 @@ A curated list of awesome Android resources
 - http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers - Android cheatsheet for graphic designers
 - http://screensiz.es/phone - Screen size
 - http://inloop.github.io/shadow4android - Android 9-patch shadow generator
+- https://www.materialpalette.com - Easily generate the color pallete based on material design
+- https://material.io/color/#! - Create, share and apply color palettes to your UI
+- https://translate.google.com/toolkit/list?hl=en#translations - Translate strings.xml files to any language and download as XML
+- https://alexjlockwood.github.io/ShapeShifter - SVG path morphing animation editor.
+- https://app-privacy-policy-generator.firebaseapp.com - Generate a generic privacy policy for your app for the playstore.
+- https://github.com/Genymobile/gnirehtet - Reverse tethering for Android.
 
 ### XML or JSON to Java Pojo Classes
 
