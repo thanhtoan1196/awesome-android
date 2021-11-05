@@ -62,6 +62,7 @@ A curated list of awesome Android resources
 - https://www.androiddevdigest.com
 - https://androidsweets.ongoodbits.com
 - http://us12.campaign-archive2.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6
+- https://mindorks.com
 
 ### Podcast
 - [Fragmented](http://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
